@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Mota</h1>
-<h3 align="center">Estudante de engenharia de computação, cursando 5° semestre. Tenho interesse por desenvolvimento fron-end e desenvolvimento mobile.</h3>
+<h3 align="center">Estudante de engenharia de computação, cursando 5° semestre. Tenho interesse por desenvolvimento front-end e desenvolvimento mobile.</h3>
 
 - 🌱 I’m currently learning **React Native and Fast api**
 
