@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Matheus Mota</h1>
-<h4 align="center">I am currently studying the 5th semester of computer engineering at UEFS (Universidade Estadual de Feira de Santana). I'm interested in front-end and mobile development. I am the current project director at EcompJr, a junior company for the UEFS computer engineering course. My main hobbies are practicing physical activities and listening to music and podcasts. I also like to enjoy my time with family and friends.</h4>
+<h4 align="center">I am currently studying the 7th semester of computer engineering at UEFS (Universidade Estadual de Feira de Santana). I'm interested in front-end and mobile development. I am the current project director at EcompJr, a junior company for the UEFS computer engineering course. My main hobbies are practicing physical activities and listening to music and podcasts. I also like to enjoy my time with family and friends.</h4>
 
 - 🌱 I’m currently learning **React Native and React**
 
