@@ -1,11 +1,7 @@
-<h1 align="center">Hi, I'm Matheus Mota</h1>
-<h4 align="center">I am currently studying the 7th semester of computer engineering at UEFS (Universidade Estadual de Feira de Santana). I'm interested in front-end and mobile development. I am the current project director at EcompJr, a junior company for the UEFS computer engineering course. My main hobbies are practicing physical activities and listening to music and podcasts. I also like to enjoy my time with family and friends.</h4>
+<h1 align="center">E aí, sou o Matheus Mota! 🐦‍⬛</h1>
+<h4 align="center">Atualmente estou no 7º semestre de Engenharia de Computação na UEFS (Universidade Estadual de Feira de Santana). Tenho interesse em desenvolvimento web e mobile. Sou o atual diretor de projetos da EcompJr, a empresa júnior do curso de Engenharia de Computação da UEFS. Nos meus momentos livres, gosto de praticar atividades físicas e ouvir música e podcasts. Também curto muito passar tempo com minha família e amigos.</h4>
 
-- 🌱 I’m currently learning **React Native and React**
-
-- 💬 Ask me about **React and React Native**
-
-- 📫 How to reach me **matheuzwork@gmail.com**
+- 📫 Como me encontrar: **matheuzwork@gmail.com**
 
 <h4 align="left">Languages: </h4>
 
