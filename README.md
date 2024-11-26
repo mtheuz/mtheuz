@@ -46,7 +46,17 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50" />
+  </a>
 </p>
+
 
 
 <h4 align="left">Github Stats:</h4>
