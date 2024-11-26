@@ -59,7 +59,12 @@
 
 
 
-<h4 align="left">Github Stats:</h4>
+<h4 style="display: flex;" align="left">Github Stats:</h4>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtheuz&show_icons=true&theme=github_dark&locale=en" alt="mtheuz" /></p>
+
+
+
+
+
 
 
