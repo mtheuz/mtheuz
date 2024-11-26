@@ -1,5 +1,5 @@
 <h1 align="center">E aí, sou o Matheus Mota! 🐦‍⬛</h1>
-<h4 align="center">Atualmente estou no 7º semestre de Engenharia de Computação na UEFS (Universidade Estadual de Feira de Santana). Tenho interesse em desenvolvimento web e mobile. Sou o atual diretor de projetos da EcompJr, a empresa júnior do curso de Engenharia de Computação da UEFS. Nos meus momentos livres, gosto de praticar atividades físicas e ouvir música e podcasts. Também curto muito passar tempo com minha família e amigos.</h4>
+<h4 align="center">Atualmente estou no 7º semestre de Engenharia de Computação na UEFS (Universidade Estadual de Feira de Santana). Tenho interesse em desenvolvimento web e mobile. Sou o atual diretor de projetos da EcompJr, a empresa júnior do curso de Engenharia de Computação da UEFS. Nos meus momentos livres, gosto de praticar atividades físicas,ouvir música e podcasts. Também curto muito passar tempo com minha família e amigos.</h4>
 
 - 📫 Como me encontrar: **matheuzwork@gmail.com**
 
