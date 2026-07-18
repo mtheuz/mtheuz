@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header animado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=E+a%C3%AD%2C+sou+o+Matheus+Mota!+%F0%9F%90%A6%E2%80%8D%E2%AC%9B;Full-stack+Developer+%7C+Go+%2B+React;Engenharia+de+Computa%C3%A7%C3%A3o+%40+UEFS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=880694&center=true&vCenter=true&width=800&lines=E+a%C3%AD%2C+sou+o+Matheus+Mota!+%F0%9F%90%A6%E2%80%8D%E2%AC%9B;Full-stack+Developer+%7C+Go+%2B+React;Engenharia+de+Computa%C3%A7%C3%A3o+%40+UEFS" alt="Typing SVG" />
 
 <em>Desenvolvedor e futuro engenheiro apaixonado por criar tecnologia com propósito.<br/>
 Construo soluções robustas e escaláveis unindo teoria e prática do backend em <strong>Go</strong> ao frontend em <strong>React/TypeScript</strong>.</em>
@@ -25,7 +25,7 @@ Construo soluções robustas e escaláveis unindo teoria e prática do backend e
 
 <br/>
 
-## 🗣️ Idiomas
+##  Idiomas
 
 | Idioma | Nível |
 |--------|-------|
@@ -34,7 +34,7 @@ Construo soluções robustas e escaláveis unindo teoria e prática do backend e
 
 <br/>
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -54,22 +54,8 @@ Construo soluções robustas e escaláveis unindo teoria e prática do backend e
 
 <br/>
 
-## 📊 Estatísticas
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mtheuz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtheuz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mtheuz&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribuições
+## Contribuições
 
 <div align="center">
 
@@ -83,7 +69,7 @@ Construo soluções robustas e escaláveis unindo teoria e prática do backend e
 
 <br/>
 
-## 🤝 Conecte-se comigo
+## Conecte-se comigo
 
 <div align="center">
 
