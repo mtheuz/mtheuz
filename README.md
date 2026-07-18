@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header animado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=880694&center=true&vCenter=true&width=800&lines=E+a%C3%AD%2C+sou+o+Matheus+Mota!+%F0%9F%90%A6%E2%80%8D%E2%AC%9B;Full-stack+Developer+%7C+Go+%2B+React;Engenharia+de+Computa%C3%A7%C3%A3o+%40+UEFS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=880694&center=true&vCenter=true&width=800&lines=E+a%C3%AD%2C+sou+o+Matheus+Mota!+%F0%9F%90%A6%E2%80%8D%E2%AC%9B;Full-stack+Developer+%7C+Go+%2B+React;Engenharia+de+Computa%C3%A7%C3%A3o+%40+UEFS" alt="Typing SVG" />
 
 <em>Desenvolvedor e futuro engenheiro apaixonado por criar tecnologia com propósito.<br/>
 Construo soluções robustas e escaláveis unindo teoria e prática do backend em <strong>Go</strong> ao frontend em <strong>React/TypeScript</strong>.</em>
