@@ -82,6 +82,6 @@ Construo soluções robustas e escaláveis unindo teoria e prática do backend e
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:880694,100:df0ff2&height=100&section=footer" width="100%" />
 
 </div>
