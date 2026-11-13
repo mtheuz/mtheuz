@@ -17,8 +17,6 @@ Construo soluções robustas e escaláveis unindo teoria e prática do backend e
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Cursando o 8º semestre de **Engenharia de Computação** na Universidade Estadual de Feira de Santana (**UEFS**)
-- 💼 **Full-stack Developer** na **Grupo Royalty **, desenvolvendo uma plataformas corporativas com **Go, React e PostgreSQL**
-- 🧭 **Conselheiro Estratégico** na [EcompJr](https://www.ecompjr.com.br/), contribuindo com visão de longo prazo e desenvolvimento de projetos inovadores
 - 🚀 Foco em **sistemas escaláveis**: APIs em Go, processamento assíncrono, containers e CI/CD
 - 🎨 Curioso por **design e identidade visual** — do Figma ao produto final
 - 🌱 Sempre aprendendo: arquitetura de software, DevOps e boas práticas de engenharia
